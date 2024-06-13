@@ -1,5 +1,6 @@
 {
-  "name": "chj-react-app-01",
+  "homepage": "https://devhitu.github.io/portfolio/",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
